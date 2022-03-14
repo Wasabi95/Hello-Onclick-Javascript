@@ -1,0 +1,20 @@
+body {
+  place-items: center;
+  min-height: 100vh 3rem;
+  display: grid;
+  background-color: aquamarine;
+}
+p {
+  font-size: 40px;
+  color: blue;
+}
+
+h2 {
+  font-size: 60px;
+  color: crimson;
+}
+button {
+  font-size: 50px;
+  width: 40%;
+  cursor: pointer;
+}
